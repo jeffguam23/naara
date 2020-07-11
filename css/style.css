@@ -13,7 +13,7 @@
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.8;
   color: #777;
   background: #fff;
@@ -495,7 +495,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #gtco-practice-areas,
 #gtco-our-team,
 #gtco-contact {
-  padding: 7em 0;
+  padding: 3em 0;
   clear: both;
 }
 
@@ -504,6 +504,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #f20079;
   width: 100%;
   float: left;
+margin-bottom: 30px;
 }
 #gtco-about .img-shadow img {
   position: relative;
@@ -640,7 +641,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .heading {
   text-align: center;
-  margin-bottom: 70px;
+  margin-bottom: 0px;
 }
 .heading h1 {
   margin-bottom: 10px;
@@ -1301,7 +1302,7 @@ form label {
 
     
 .gtco-nav.scrolled {
-    background: #F20079;}
+    background: #f20079b8;}
 
 .gtco-nav.scrolled #gtco-logo em, .gtco-nav.scrolled #gtco-logo a {
     color: #FFF;
@@ -1317,7 +1318,11 @@ form label {
 .gtco-nav #gtco-logo em {
     color: #000;}
 
-
-
+.gtco-icon img{
+    width: 250px;
+    padding-right: 10px
+    
+    
+}
 
 
